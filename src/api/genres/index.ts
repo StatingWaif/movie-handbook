@@ -1,0 +1,1 @@
+export { getGenresByIds } from "./getGenresByIds";
