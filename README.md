@@ -28,7 +28,8 @@ REACT_APP_TMDB_API_KEY=ВАШ_КЛЮЧ_ДОСТУПА
 Данный проект использует следующие технологии и библиотеки:
 
 - React
+- TypeScript
 - Material-UI
 - React-Slick
-- React-Spring
+- React-Parallax
 - и тд.
